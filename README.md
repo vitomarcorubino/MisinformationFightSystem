@@ -1,5 +1,5 @@
-# 💫 About Misinformation Fight System:
-Il sistema si pone come obiettivi: verificare la veridicità di una notizia, verificare l'attendibilità di una fonte e impedire la visione di notizie false.
+# 🗞️ Misinformation Fight System:
+Il sistema Misinformation Fight System si pone come obiettivi: verificare la veridicità di una notizia, verificare l'attendibilità di una fonte e impedire la visione di notizie false.
 
 ## 🌐 Collaborators:
 * Lazazzera Giancarlo <br>
