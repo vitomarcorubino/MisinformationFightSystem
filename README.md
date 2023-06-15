@@ -2,7 +2,7 @@
 Il sistema Misinformation Fight System si pone come obiettivi: verificare la veridicità di una notizia, verificare l'attendibilità di una fonte e impedire la visione di notizie false.
 
 # 🔗 Link al sito
-[![Misinformation Fight System](https://mfs.altervista.org)
+[![Github](https://img.shields.io/badge/MFS-Misinformation%20Fight%20System-blue)](https://mfs.altervista.org)
 
 ## 🌐 Collaborators:
 * Lazazzera Giancarlo <br>
